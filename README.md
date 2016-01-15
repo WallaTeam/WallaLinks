@@ -1,5 +1,7 @@
+# WallaLinks!
 
 URLShortener for Web Engineering 2015-2016, made by WallaTeam group.
+Copyright (C) 2015-2016 WallaTeam.
 
 ## License
 
