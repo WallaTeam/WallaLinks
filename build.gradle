@@ -23,7 +23,6 @@ jar {
 mainClassName = 'urlshortener.bangladeshgreen.Application'
 
 dependencies {
-    compile project(':common')
 
     // Provides the production database
     runtime 'org.hsqldb:hsqldb'
